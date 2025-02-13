@@ -24,6 +24,12 @@ discriminates against anyone "not in communion" with Rome).
 
 List is community-maintained. If any information is inaccurate, please don't hesistate to make an issue.
 
+## Data sources
+
+- [List of priests and self-described priests by CatholicCandle 2018](https://drive.google.com/file/d/1JraFxACRV1Gl4LUJBL-USwlYUWlR29r6/view)
+- [CathInfo Resistance chapels list](https://www.cathinfo.com/sspx-resistance-chapels/)
+- various other sources, personal, E-Mails, even TV documentaries (ex. Sister Irene in Ireland)
+
 ## Notes
 
 - If linking to any contact page, first archive the site using archive.is
